@@ -1,4 +1,6 @@
-install.packages('tidyverse')
+install.packages('ggplot2')
+install.packages('readr')
+install.packages('dplyr')
 install.packages('gganimate')
 install.packages('gapminder')
 install.packages('NHANES')
